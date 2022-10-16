@@ -1,4 +1,4 @@
-## Olá, sou o José Mailson Nascimento! 👋
+## Olá, sou o José Mailson! 👋
 
 - 🌱 Estou aprendendo desenvolvimento Mobile e Web Front-End
 - 😄 Pronomes: ele/dele
