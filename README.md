@@ -1,7 +1,6 @@
-## Olá, sou o José Mailson! 👋
+## Hello, my name is José Mailson! 👋
 
-- 🌱 Estou aprendendo desenvolvimento Mobile e Web Front-End
-- 😄 Pronomes: ele/dele
+- 🌱 I'm learning Mobile Development and Web Front-End
 
 <div align="center">
   <a href="https://github.com/josemailson">
