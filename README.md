@@ -1,6 +1,6 @@
 ## Hello, my name is José Mailson! 👋
 
-- 🌱 I'm learning Mobile Development and Web Front-End
+- 🌱 I'm a Mobile and Web Front-End developer.
 
 <div align="center">
   <a href="https://github.com/josemailson">
